@@ -17,6 +17,6 @@ The application was implemented with MVVM Pattern to manage the information and 
 
 * Loading recyclerview on demand
 * Unit Test
-* Local storag in DB with room
+* Local storage in DB with room
 
 
