@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test Chiper</string>
+    <string name="app_api_key">f60085a37ecfbeb9457006533819927a</string>
+    <string name="something_went_wrong_retry">Algo salio mal</string>
+    <string name="movie_name">Nombre de la pelicula</string>
+    <string name="movie_title">Peliculas</string>
+    <string name="overview_title">Sinopsis</string>
+    <string name="release_date">Fecha de estreno</string>
+</resources>
