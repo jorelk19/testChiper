@@ -2,7 +2,7 @@
 
 ## Architecture
 
-* Was used koin framework to implement inyection dependencies in the application
+* Was used koin framework to implement dependencies injection in the application
 * Was Used Couroutines to get api information
 * Was used the Retrofit library to access the rest service 
 * Was Implemented View Model to manage the information and show in the respective view
